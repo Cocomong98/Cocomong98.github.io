@@ -1,10 +1,10 @@
 ---
-title:  "github.io 블로그  첫 글"
-excerpt: "github.io 블로그 첫 글 작성해봅니다."
+title:  "첫 업로드"
+excerpt: "오늘을 즐기는 방법에 대하여"
 categories:
-  - Blog
+  - 즐겁게 살기
 tags:
-  - Blog
+  - 일상
 last_modified_at: 2019-04-13T08:06:00-05:00
 ---
 
